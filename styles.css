@@ -1,0 +1,25 @@
+#food{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font:bold;
+    font-size: large;
+
+}
+
+.pizza{
+    background-color: red;
+}
+.chicken{
+    background-color: brown;
+}
+.steak{
+    background-color: bisque;
+}
+
+.title{
+    text-align: center;
+    font-size: larger;
+    color: purple;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
