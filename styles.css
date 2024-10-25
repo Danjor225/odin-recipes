@@ -14,6 +14,10 @@
     text-align: left;
 }
 
+.text{
+padding: 30px;
+}
+
 .pizza{
     color: red;
 }
