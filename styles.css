@@ -5,14 +5,29 @@
 
 }
 
+.containerlist{
+    text-align: center;
+}
+
+.list{
+   display: inline-block;
+    text-align: left;
+}
+
 .pizza{
     color: red;
+    padding: 10px;
+    margin-bottom: 20px;
 }
 .chicken{
    color: rgb(220, 194, 27);
+   padding: 10px;
+   margin-bottom: 20px;
 }
 .steak{
     color: rgb(131, 20, 20);
+    padding: 10px;
+    margin-bottom: 20px;
 }
 
 .title{
