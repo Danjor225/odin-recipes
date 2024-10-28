@@ -1,9 +1,10 @@
 html{
     background-color: azure;
+    
 }
 
 #food{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Avenir Next','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font:bold;
     font-size: xx-large;
 
@@ -59,6 +60,6 @@ padding: 30px;
 
 }
 
-.avenirFont{
+*{
     font-family: 'Avenir Next', Arial, Helvetica, sans-serif;
 }
